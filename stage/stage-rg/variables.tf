@@ -2,5 +2,5 @@ variable "resource_group_name" {
     default = "stage-terragrunt"
 }
 variable "location" {
-    default = "qatarcentral"
+    default = "UAE North"
 }
